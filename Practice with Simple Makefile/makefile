@@ -5,7 +5,7 @@ CC = g++
 TARGET = main
 
 # Source files
-SRCS = cmake_practice.cpp function.cpp
+SRCS = make_practice.cpp function.cpp
 
 # Object files to be made
 OBJS = $(SRCS:.cpp=.o)
